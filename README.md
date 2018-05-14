@@ -27,4 +27,6 @@
 - Map
 - Interface
 - Receiver & Pointer
+- Defer, Panic, and Recover
+- Goroutines
 - Testing
