@@ -18,3 +18,13 @@
   - https://golang.org/pkg/
 - API
   - https://golang.org/pkg/builtin/
+  
+## Deep into Go
+
+- Slice
+- Struct
+  - json/yaml to Struct
+- Map
+- Interface
+- Receiver & Pointer
+- Testing
