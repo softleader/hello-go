@@ -19,14 +19,22 @@
 - API
   - https://golang.org/pkg/builtin/
   
+## Basics
+
+- loop
+- if 
+- switch
+- slice
+- map
+- struct
+  - marshal & unmarshal
+- interface
+- testing
+
 ## Deep into Go
 
-- Slice
-- Struct
-  - json/yaml to Struct
-- Map
-- Interface
-- Receiver & Pointer
-- Defer, Panic, and Recover
-- Goroutines
-- Testing
+- receiver
+- pointer
+- defer, panic & recover
+- goroutine
+- channel
