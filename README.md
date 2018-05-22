@@ -28,6 +28,7 @@
 - map
 - struct
   - marshal & unmarshal
+  - embedding
 - interface
 - testing
 
