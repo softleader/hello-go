@@ -37,6 +37,7 @@
 
 - receiver
 - pointer
+- must
 - defer, panic & recover
 - goroutine
 - channel
