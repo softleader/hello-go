@@ -22,8 +22,7 @@
 ## Basics
 
 - loop
-  - break
-  - continue
+  - break, continue, label
   - switch
 - if 
 - slice
