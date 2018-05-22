@@ -22,8 +22,10 @@
 ## Basics
 
 - loop
+  - break
+  - continue
+  - switch
 - if 
-- switch
 - slice
 - map
 - struct
