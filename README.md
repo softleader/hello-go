@@ -35,9 +35,10 @@
 
 ## Deep into Go
 
-- receiver
-- pointer
 - must
 - defer, panic & recover
+- error
+- receiver
+- pointer
 - goroutine
 - channel
