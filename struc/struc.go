@@ -21,6 +21,10 @@ func (s Student) Sex() string {
 	return "M"
 }
 
+func (s *Student) UpdateName(newName string) {
+	s.Name = newName
+}
+
 func IsMale(p People) bool {
 	return p.Sex() == "M"
 }

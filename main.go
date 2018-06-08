@@ -21,6 +21,8 @@ func main() {
 	s.Name = "Matt"
 	s.Number = 1
 	fmt.Printf("%#v\n", s)
+
+	s.UpdateName("Abc")
 	s.Output()
 
 	fmt.Println(struc.IsMale(s))

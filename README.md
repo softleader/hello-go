@@ -28,17 +28,21 @@
 - slice
 - map
 - struct
-  - marshal & unmarshal
-  - embedding
 - interface
+- receiver
 - testing
 
 ## Deep into Go
 
-- must
+- pass by value
+- pointer
+- marshal & unmarshal
 - defer, panic & recover
 - error
-- receiver
-- pointer
+
+## Advanced Go
+
+- must
+- embedding struct
 - goroutine
 - channel
