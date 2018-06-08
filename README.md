@@ -47,4 +47,5 @@
 - panic & recover
 - goroutine
 - channel
+- template
 - ...
