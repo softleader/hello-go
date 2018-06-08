@@ -34,15 +34,17 @@
 
 ## Deep into Go
 
+- embedding struct
+- must
+- defer
+- error
 - pass by value
 - pointer
 - marshal & unmarshal
-- defer, panic & recover
-- error
 
 ## Advanced Go
 
-- must
-- embedding struct
+- panic & recover
 - goroutine
 - channel
+- ...
